@@ -1,6 +1,6 @@
 # division_demo
 
-A new Flutter project.
+https://pub.dev/packages/division.
 
 ## Getting Started
 
